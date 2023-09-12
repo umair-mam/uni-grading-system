@@ -18,4 +18,4 @@ This repository contains a Python program for a university student grading syste
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/umairakrm/uni-grading-system.git
